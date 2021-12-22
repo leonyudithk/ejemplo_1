@@ -1,0 +1,28 @@
+*{
+    margin:10px;
+}
+
+.contenedor{
+    background: red;
+    font-size: 20px;
+  
+
+}
+
+h1{
+    font-family: cursive;
+}
+
+#subtitulo{
+    font-family: fantasy;
+}
+
+.subcont{
+    background: blue;
+    padding: 20px;
+}
+
+p{
+    text-align: justify;
+    
+}
